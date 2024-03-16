@@ -11,7 +11,7 @@ NooBaa simplifies data administration by connecting to any of the storage silos 
 
 ----
 
-## Deploy to Kubernetes
+## Deploy to Kubernetes Openshift cluster
 
 To deploy NooBaa, we recommend using NooBaa CLI.
 Follow the instructions in https://github.com/noobaa/noobaa-operator#noobaa-operator 
